@@ -1,0 +1,2 @@
+# pyScriptCardGame
+Pyscriptを使用した神経衰弱アプリ
